@@ -2,7 +2,7 @@ ARG dockerfrom
 FROM $dockerfrom
 
 # pip packages
-#RUN pip install 
+RUN pip install xlrd
 
 # install additional packages
 #RUN git clone 

@@ -1,5 +1,5 @@
 # project name without space, lower case for image name
-PROJECT_NAME=my_project
+PROJECT_NAME=wind_dist
 
 # device: cpu or gpu
 DEVICE=gpu
